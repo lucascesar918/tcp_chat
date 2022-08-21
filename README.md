@@ -1,5 +1,5 @@
-# tcp_chat
-TCP/IP chat room client built using Python 3.10.5
+# tcp_irc
+TCP/IP chat room client and server built using Python 3.10.5
  
 This is a tool that manages connections and messages between devices by using TCP/IP protocol to communicate.
  
